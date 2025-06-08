@@ -11,7 +11,7 @@ DOMAIN:JAVA PROGRAMMING
 
 DURATION:8 WEEKS
 
-MENTOR:NEELA SANTOSH
+MENTOR:NEELA SANTOSH KUMAR
 
 DESCRIPTION OF ABOVE TASK:
 In this task, you are required to write a Java application that communicates with a public REST API, fetches relevant data, and then displays the data in a structured format. One of the common and widely used APIs for this purpose is the weather API, which provides weather-related data, such as current weather conditions, forecasts, and historical weather information. The application will focus on consuming a public REST API to fetch weather data and then display it in a structured and readable format.
